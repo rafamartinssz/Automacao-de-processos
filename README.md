@@ -48,6 +48,6 @@ print(pyt.position())
 tabela = pd.read_csv(r"endereço da pasta onde baixou o arquivo", sep = ';')
 display(tabela)
 
-pyt.write("seuamailaqui")
+pyt.write("seuemailaqui@gmail.com")
 pyt.press("tab") # escolher o destinatário
 ```
